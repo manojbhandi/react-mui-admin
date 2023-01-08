@@ -1,3 +1,11 @@
+# Packages Used
+1. [React-data-grid component](https://mui.com/x/react-data-grid/)
+2. [react-pro-sidebar](https://www.npmjs.com/package/react-pro-sidebar)
+3. [formik](https://formik.org/)
+4. yup-validator    
+5. [fullcaledar component](https://www.npmjs.com/package/@fullcalendar/react)
+6. [nivo charts](https://nivo.rocks/pie/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,7 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+s
 ### `npm start`
 
 Runs the app in the development mode.\
